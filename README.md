@@ -1,22 +1,25 @@
 ## M1 subtitulo
 ### Hola
+=======
+#### bla bla bla
+### Hello!!!!
+=======
 Editando mi readme
 Prueba perro
 lolpoopa
 fjd
-<<<<<<< HEAD
 =======
-<<<<<<< HEAD
 Bob Esponja
 primens
 chavales esto es seat code
 miguel no toques
 Esto es Spartaaaaaa !
 =======
-<<<<<<< HEAD
->>>>>>> 191bad47ab01965d6e3466501f0210cc724c443e
+=======
 
 Editando archivo README.md by Miguel
+Editando archivo README.md by Pablo
+=======
 
 primens
 chavales esto es seat code
@@ -26,11 +29,14 @@ señores tocamos todos.. bukake
 #### bla bla bla
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #booom
 =======
 
 MIKE MIKE MIKE...
 =======
 MIKE MIKE MIKE...
->>>>>>> 5f61763b9e194ac3a508c34d9e47a57097dd204b
->>>>>>> 191bad47ab01965d6e3466501f0210cc724c443e
+=======
+TENGO EL MASTER MAS PETADO QUE EL CULO DE UN MARICA
+MIKE MIKE MIKE...
+
