@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 Mala guarra
 
+<<<<<<< HEAD
 
 
 
@@ -41,3 +42,6 @@ MIKE MIKE MIKE...
 =======
 ### Hello!!!!
 >>>>>>> a2df33c384d2a7794cd017e61fcba015ed598586
+=======
+#booom
+>>>>>>> 536c5839eb7c1c6b507c767dfabad238bc81fd00
