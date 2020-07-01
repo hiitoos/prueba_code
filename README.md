@@ -37,6 +37,7 @@
 ## prueba_code
 ## M1 subtitulo
 ### Hola
+<<<<<<< HEAD
 
 
 
@@ -54,6 +55,9 @@
 =======
 >>>>>>> 66f3f781fdfd04e355df75260ad2940e1498096b
 >>>>>>> 829b7c1a0fef71dbe65c3b49babd135b0362ca7f
+=======
+<<<<<<< HEAD
+>>>>>>> ramaramita
 Editando mi readme
 Prueba perro
 lolpoopa
@@ -65,6 +69,7 @@ Bob Esponja
 primens
 chavales esto es seat code
 miguel no toques
+<<<<<<< HEAD
 Esto es Spartaaaaaa !
 =======
 
@@ -97,3 +102,10 @@ MIKE MIKE MIKE...
 
 #booom
 >>>>>>> 829b7c1a0fef71dbe65c3b49babd135b0362ca7f
+=======
+=======
+#### bla bla bla
+
+#booom
+>>>>>>> 536c5839eb7c1c6b507c767dfabad238bc81fd00
+>>>>>>> ramaramita
