@@ -5,7 +5,6 @@ Editando mi readme
 Prueba perro
 lolpoopa
 fjd
-<<<<<<< HEAD
 
 Editando archivo README.md by Miguel
 
@@ -15,3 +14,7 @@ primens
 chavales esto es seat code
 miguel no toques
 señores tocamos todos.. bukake
+=======
+#### bla bla bla
+
+#booom
