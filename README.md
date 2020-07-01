@@ -3,6 +3,7 @@
 ### Hola
 <<<<<<< HEAD
 #### bla bla bla
+<<<<<<< HEAD
 Mala guarra
 
 
@@ -37,3 +38,6 @@ señores tocamos todos.. bukake
 
 MIKE MIKE MIKE...
 >>>>>>> rodolfo
+=======
+### Hello!!!!
+>>>>>>> a2df33c384d2a7794cd017e61fcba015ed598586
