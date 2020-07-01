@@ -1,6 +1,7 @@
 ## prueba_code
 ## M1 subtitulo
 ### Hola
+<<<<<<< HEAD
 Editando mi readme
 Prueba perro
 lolpoopa
