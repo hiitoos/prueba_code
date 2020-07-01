@@ -1,4 +1,4 @@
-# prueba_code
+## prueba_code
 ## M1 subtitulo
 ### Hola
 Editando mi readme
@@ -7,3 +7,4 @@ lolpoopa
 fjd
 primens
 chavales esto es seat code
+miguel no toques
