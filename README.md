@@ -5,9 +5,7 @@ Editando mi readme
 Prueba perro
 lolpoopa
 fjd
-<<<<<<< HEAD
-
-Editando archivo README.md by Miguel
+Edito edito edito
 
 primens
 chavales esto es seat code
