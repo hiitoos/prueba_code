@@ -1,20 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## prueba_code
 ## M1 subtitulo
 ### Hola
-<<<<<<< HEAD
-#### bla bla bla
-<<<<<<< HEAD
-Mala guarra
-
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
 
 
 
@@ -24,20 +46,39 @@ Mala guarra
 
 
 =======
+=======
+<<<<<<< HEAD
+=======
+#### bla bla bla
+### Hello!!!!
+=======
+>>>>>>> 66f3f781fdfd04e355df75260ad2940e1498096b
+>>>>>>> 829b7c1a0fef71dbe65c3b49babd135b0362ca7f
 Editando mi readme
 Prueba perro
 lolpoopa
 fjd
 <<<<<<< HEAD
+Edito edito edito
+=======
+Bob Esponja
+primens
+chavales esto es seat code
+miguel no toques
+Esto es Spartaaaaaa !
+=======
 
 Editando archivo README.md by Miguel
+>>>>>>> 66f3f781fdfd04e355df75260ad2940e1498096b
 
 primens
 chavales esto es seat code
 miguel no toques
 señores tocamos todos.. bukake
 
+TENGO EL MASTER MAS PETADO QUE EL CULO DE UN MARICA
 MIKE MIKE MIKE...
+<<<<<<< HEAD
 >>>>>>> rodolfo
 =======
 ### Hello!!!!
@@ -45,3 +86,14 @@ MIKE MIKE MIKE...
 =======
 #booom
 >>>>>>> 536c5839eb7c1c6b507c767dfabad238bc81fd00
+=======
+<<<<<<< HEAD
+=======
+
+#booom
+=======
+### Hello!!!!
+=======
+
+#booom
+>>>>>>> 829b7c1a0fef71dbe65c3b49babd135b0362ca7f
